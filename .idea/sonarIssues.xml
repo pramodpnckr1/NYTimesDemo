@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/nytimes/articles/viewmodel/ArticleDetailsViewModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/nytimes/articles/viewmodel/ViewModelFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/item_article_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="K:/NewsApp/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="K:/NewsApp/app/src/main/java/articles/news/com/newsapp/common/Constants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="K:/NewsApp/app/src/main/java/articles/news/com/newsapp/data/local/ArticleDatabase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="K:/NewsApp/app/src/main/java/articles/news/com/newsapp/data/local/dao/ArticlesDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="K:/NewsApp/app/src/main/java/articles/news/com/newsapp/data/remote/ApiConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="K:/NewsApp/app/src/main/java/articles/news/com/newsapp/data/remote/ApiService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="K:/NewsApp/app/src/main/java/articles/news/com/newsapp/data/remote/NetworkBoundResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="K:/NewsApp/app/src/main/java/articles/news/com/newsapp/data/remote/RequestInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="K:/NewsApp/app/src/main/java/articles/news/com/newsapp/data/remote/model/PopularArticleResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="K:/NewsApp/app/src/main/java/articles/news/com/newsapp/view/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
