@@ -23,6 +23,9 @@ The main advatage of using MVVM, there is no two way dependency between ViewMode
 <img src="/screenshots/details_screen.png" width="346" height="615" alt="Home"/>
 <img src="/screenshots/search_screen.png" width="346" height="615" alt="Home"/>
 
+#TEST REPORT
+<img src="/screenshots/test.png" width="346" height="615" alt="Home"/>
+
 # Programming Practices Followed
 a) Android Architectural Components <br/>
 b) Dagger 2 for Dependency Injection <br/>
